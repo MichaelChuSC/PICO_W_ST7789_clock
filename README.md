@@ -10,21 +10,21 @@ Software:
 2. ST7789 micropython module (https://github.com/devbis/st7789py_mpy)
 
 Remark:
-1. Solar24 data from 2025-2035
-2. Temperature and humity inforamtion by json (from Hong Kong Observatory)
-3. Lunar date information by json(https://www.iamwawa.cn/nongli)
+1. Temperature and humity inforamtion by json (from Hong Kong Observatory)
+2. Lunar date information by json(https://www.iamwawa.cn/nongli)
+3. Solar24 data from 2025-2035 (by internal table)
 
 Pin connection:
-ST7789|PICO
+ST7789| PICO
 ------|---------------------------
-BL    |3V3
-CS    |GND
-DC    |GP13  pin no 17 -SPI1 CSn  
-RES   |GP12  pin no 16 -SPI1 Rx  
-SDA   |GP11  pin no 15 -SPI1 Tx  
-SCL   |GP10  pin no 14 -SPI1 SCK 
-VCC   |3V3
-GND   |GND
+BL    | 3V3
+CS    | GND
+DC    | GP13  pin no 17 -SPI1 CSn  
+RES   | GP12  pin no 16 -SPI1 Rx  
+SDA   | GP11  pin no 15 -SPI1 Tx  
+SCL   | GP10  pin no 14 -SPI1 SCK 
+VCC   | 3V3
+GND   | GND
 
 
 
