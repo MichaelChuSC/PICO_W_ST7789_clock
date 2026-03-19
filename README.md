@@ -7,7 +7,7 @@ Hardware:
 
 Software:
 1. PICO W firmware
-2. ST7789 micropython module
+2. ST7789 micropython module (https://github.com/devbis/st7789py_mpy)
 
 
 
