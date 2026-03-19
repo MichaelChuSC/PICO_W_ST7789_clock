@@ -12,6 +12,7 @@ Software:
 Remark:
 1. Solar24 data from 2025-2035
 2. Temperature and humity inforamtion by json (from Hong Kong Observatory)
+3. Lunar date information by json(https://www.iamwawa.cn/nongli)
 
 Pin connection:
 ST7789|PICO
