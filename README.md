@@ -27,6 +27,12 @@ VCC   | 3V3
 GND   | GND
 
 
+https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/1.jpg
+
+
+
+
+
 
 
 
