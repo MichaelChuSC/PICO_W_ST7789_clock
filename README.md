@@ -27,14 +27,13 @@ VCC   | 3V3
 GND   | GND
 
 
-https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/1.jpg
+<img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/1.jpg" alt="photo 1" width="500" height="375">
 
+<img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/2.jpg" alt="photo 2" width="500" height="375">
 
+<img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/3.jpg" alt="photo 3" width="500" height="375">
 
+<img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/4.jpg" alt="photo 4" width="500" height="375">
 
-
-
-
-
-
+<img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/5.jpg" alt="photo 5" width="500" height="375">
 
