@@ -1,5 +1,5 @@
 # PICO_W_ST7789_clock
-WiFi clock with ST7789 and PICO W
+WiFi Clock with ST7789 and PICO W (program with MicroPython)
 
 Hardware:
 1. PICO 2/ PICO 2W
@@ -26,6 +26,7 @@ SCL   | GP10  pin no 14 -SPI1 SCK
 VCC   | 3V3
 GND   | GND
 
+The WiFi Clock
 <img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/circuit.jpg" alt="photo circuit" width="344" height="408">
 
 <img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/1.jpg" alt="photo 1" width="500" height="375">
