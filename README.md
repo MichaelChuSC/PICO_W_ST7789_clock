@@ -26,6 +26,7 @@ SCL   | GP10  pin no 14 -SPI1 SCK
 VCC   | 3V3
 GND   | GND
 
+<img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/circuit.jpg" alt="photo circuit" width="344" height="408">
 
 <img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/1.jpg" alt="photo 1" width="500" height="375">
 
@@ -37,6 +38,6 @@ GND   | GND
 
 <img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/5.jpg" alt="photo 5" width="500" height="375">
 
-<img src="https://github.com/MichaelChuSC/PICO_W_ST7789_clock/blob/main/image/circuit.jpg" alt="photo circuit" width="500" height="650">
+
 
 
